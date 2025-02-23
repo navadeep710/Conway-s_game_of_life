@@ -69,7 +69,7 @@ def main():
     running = True
     playing = False
     count = 0
-    update_freq = 10  # Reduced to make it update faster
+    update_freq = 10  
 
     positions = set()
 
